@@ -1,0 +1,7 @@
+Programming Environment
+Python 3.11.3
+numpy 1.23.5
+opencv-contrib-python 4.7.0.72  
+
+Execution Command
+python3 main.py
